@@ -61,9 +61,8 @@ mkdir proseq_GCB procap_GCB
 
 cd ../TSS_scripts
 ```
-Then, clone the repository here (in the TSS_scripts directory) and name it TSS_analysis
 
-### BAM files used (from the Pavri lab (GCB mm9 PRO-Seq and PRO-Cap)
+### BAM files used \[from the Pavri lab (GCB mm9 PRO-Seq and PRO-Cap)\]
 
 The mm9 BAM files of the PRO-Cap and PRO-Seq replicates should be in the directory called 1.Replicates_bam
 
